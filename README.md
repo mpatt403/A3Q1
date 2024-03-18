@@ -4,12 +4,11 @@ Make a database in pgadmin 4
 
 Copy/paste sql queries from Queries.txt to pgadmin4 query tool
 
+Open Intellij and make a new project and select Maven as Build System
 
-Download A3Q1_Application zip
+Copy/Paste Students.java code to your Main.java
 
-Open folder and go to A3Q1_Application/src/main/java/org/example
-
-Open Students.java in IntelliJ
+Copy/Paste pom.xml code to your pom.xml
 
 Hit run to print the initial data
 
