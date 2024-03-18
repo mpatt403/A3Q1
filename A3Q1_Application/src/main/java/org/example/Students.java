@@ -4,11 +4,6 @@ import java.sql.*;
 
 
 public class Students {
-//    public static void ok(ResultSet r) throws SQLException {
-//        System.out.println(r.getString("first_name"));
-//    }
-
-
     String url = "jdbc:postgresql://localhost:5432/A3Q1";
     String user = "postgres";
     String password = "postgres";
@@ -108,11 +103,11 @@ public class Students {
 //        students.getAllStudents();
 
 
-        //System.out.println("Before:");
-        //students.getAllStudents();
-        //System.out.println();
-        //System.out.println("After: ");
-        //students.deleteStudent(2);
-        //students.getAllStudents();
+//        System.out.println("Before:");
+//        students.getAllStudents();
+//        System.out.println();
+//        System.out.println("After: ");
+//        students.deleteStudent(2);
+//        students.getAllStudents();
     }
 }
