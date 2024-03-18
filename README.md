@@ -8,11 +8,11 @@ Download "A3Q1_Application.zip"
 
 Extract all the folders from the zip file
 
-Open ./A3Q1_Application/A3Q1_Application/src/main/java/org/example
+Go to ./A3Q1_Application/A3Q1_Application/src/main/java/org/example
 
 Open Students.java with IntelliJ
 
-AFter opening select "Open in Project" if prompted
+After opening select "Open in Project" if prompted
 
 Then at the bottom right corner select "Load Maven Project" and Select "always add" when asked for external libraries
 
