@@ -1,7 +1,7 @@
 # A3Q1
 
 Make a database in pgadmin 4
-open copy/paste sql queries from Queries.txt to pgadmin4 query tool
+Copy/paste sql queries from Queries.txt to pgadmin4 query tool
 
 Download A3Q1_Application folder
 Open folder and go to src/main/java/org/example
