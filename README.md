@@ -4,13 +4,17 @@ Make a database in pgadmin 4
 
 Copy/paste sql queries from Queries.txt to pgadmin4 query tool
 
-Open Intellij and make a new project and select Maven as Build System
+Download "A3Q1_Application.zip"
 
-Copy/Paste Students.java code to your Main.java
+Extract all the folders from the zip file
 
-In IntelliJ right-click on your Main.java then Refactor and Rename file to "Students.java"
+Open ./A3Q1_Application/A3Q1_Application/src/main/java/org/example
 
-Copy/Paste pom.xml code to your pom.xml
+Open Students.java with IntelliJ
+
+AFter opening select "Open in Project" if prompted
+
+Then at the bottom right corner select "Load Maven Project" and Setup sdk to your Java version
 
 Hit run to print the initial data
 
