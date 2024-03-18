@@ -91,7 +91,7 @@ public class Students {
     public static void main(String[] args) {
         Students students = new Students();
 
-        //students.getAllStudents();
+        students.getAllStudents();
 
 //        System.out.println("Before");
 //        students.getAllStudents();
@@ -108,11 +108,11 @@ public class Students {
 //        students.getAllStudents();
 
 
-        System.out.println("Before:");
-        students.getAllStudents();
-        System.out.println();
-        System.out.println("After: ");
-        students.deleteStudent(2);
-        students.getAllStudents();
+        //System.out.println("Before:");
+        //students.getAllStudents();
+        //System.out.println();
+        //System.out.println("After: ");
+        //students.deleteStudent(2);
+        //students.getAllStudents();
     }
 }
