@@ -1,6 +1,6 @@
 # A3Q1
 
-Make a database in pgadmin 4
+Make a database in pgadmin 4 then 
 Copy/paste sql queries from Queries.txt to pgadmin4 query tool
 
 Download A3Q1_Application folder
