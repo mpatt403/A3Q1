@@ -8,6 +8,8 @@ Open Intellij and make a new project and select Maven as Build System
 
 Copy/Paste Students.java code to your Main.java
 
+In IntelliJ right-click on your Main.java then Refactor and Rename file to "Students.java"
+
 Copy/Paste pom.xml code to your pom.xml
 
 Hit run to print the initial data
