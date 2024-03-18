@@ -14,7 +14,9 @@ Open Students.java with IntelliJ
 
 AFter opening select "Open in Project" if prompted
 
-Then at the bottom right corner select "Load Maven Project" and Setup sdk to your Java version
+Then at the bottom right corner select "Load Maven Project" and Select "always add" when asked for external libraries
+
+Setup sdk to your Java version if asked at the top
 
 Hit run to print the initial data
 
